@@ -1,8 +1,8 @@
 ---
 layout: lecture
-title: "Agentic Coding"
+title: "Агентне програмування"
 description: >
-  Learn how to use AI coding agents effectively for software development tasks.
+  Навчіться ефективно використовувати ШІ-агентів для програмування.
 thumbnail: /static/assets/thumbnails/2026/lec7.png
 date: 2026-01-21
 ready: true

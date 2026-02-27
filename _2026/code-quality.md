@@ -1,8 +1,8 @@
 ---
 layout: lecture
-title: "Code Quality"
+title: "Якість коду"
 description: >
-  Learn about formatting, linting, testing, continuous integration, and more.
+  Дізнайтеся про форматування, лінтинг (linting), тестування, безперервну інтеграцію (CI) та інше.
 thumbnail: /static/assets/thumbnails/2026/lec9.png
 date: 2026-01-23
 ready: true

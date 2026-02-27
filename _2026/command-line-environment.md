@@ -1,8 +1,8 @@
 ---
 layout: lecture
-title: "Command-line Environment"
+title: "Середовище командного рядка (CL)"
 description: >
-  Learn how command-line programs work, including input/output streams, environment variables, and remote machines with SSH.
+  Дізнайтеся, як працюють програми командного рядка, зокрема про потоки введення/виведення, змінні оточення та роботу з віддаленими машинами через SSH.
 thumbnail: /static/assets/thumbnails/2026/lec2.png
 date: 2026-01-13
 ready: true

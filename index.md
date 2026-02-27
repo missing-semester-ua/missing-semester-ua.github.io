@@ -21,7 +21,7 @@ nositetitle: true
 Sign up for the IAP 2026 class by filling out this [registration form](https://forms.gle/j2wMzi7qeiZmzEWy9).
 {% endcomment %}
 
-# Schedule
+# Розклад
 
 {% comment %}
 **Lecture**: [35-225](https://whereis.mit.edu/?go=35), 1:30--2:30pm (_exception_: 3--4pm on Friday 1/16)<br>

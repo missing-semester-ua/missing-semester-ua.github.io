@@ -1,8 +1,8 @@
 ---
 layout: lecture
-title: "Course Overview + Introduction to the Shell"
+title: "Огляд курсу + Знайомство з оболонкою (Shell)"
 description: >
-  Learn about the motivation for this class, and get started with the shell.
+  Дізнайтеся про мотивацію створення цього курсу та почніть знайомство з оболонкою (shell).
 thumbnail: /static/assets/thumbnails/2026/lec1.png
 date: 2026-01-12
 ready: true

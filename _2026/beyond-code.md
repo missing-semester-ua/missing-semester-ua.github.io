@@ -1,8 +1,8 @@
 ---
 layout: lecture
-title: "Beyond the Code"
+title: "Поза межами коду"
 description: >
-  Learn about essential soft skills including documentation, open-source community norms, and AI etiquette.
+  Дізнайтеся про важливі софт скіли, зокрема про написання документації, норми спільноти open-source та етикет використання ШІ.
 thumbnail: /static/assets/thumbnails/2026/lec8.png
 date: 2026-01-22
 ready: true

@@ -1,8 +1,8 @@
 ---
 layout: lecture
-title: "Development Environment and Tools"
+title: "Середовище розробки та інструменти"
 description: >
-  Learn about IDEs, Vim, language servers, and AI-powered development tools.
+  Дізнайтеся про IDE, Vim, мовні сервери (LSP) та інструменти розробки на базі ШІ.
 thumbnail: /static/assets/thumbnails/2026/lec3.png
 date: 2026-01-14
 ready: true

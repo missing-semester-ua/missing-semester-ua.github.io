@@ -1,8 +1,8 @@
 ---
 layout: lecture
-title: "Version Control and Git"
+title: "Керування версіями та Git"
 description: >
-  Learn Git's data model and how to use Git for version control and collaboration.
+  Дізнайтеся про модель даних Git та про те, як використовувати Git для керування версіями та спільної роботи.
 thumbnail: /static/assets/thumbnails/2026/lec5.png
 date: 2026-01-16
 ready: true
