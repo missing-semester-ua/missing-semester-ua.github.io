@@ -1,35 +1,19 @@
 ---
 layout: page
-title: The Missing Semester of Your CS Education
+title: Пропущений семестр вашої комп'ютерної освіти
 description: >
-  Master powerful tools that will make you a more productive computer scientist and programmer.
-subtitle: IAP 2026
+  Опануйте потужні інструменти, що зроблять вашу роботу в галузі комп'ютерних наук та програмування продуктивнішою.
+subtitle: 2026
 nositetitle: true
 ---
 
-Classes teach you all about advanced topics within CS, from operating systems
-to machine learning, but there's one critical subject that's rarely covered,
-and is instead left to students to figure out on their own: proficiency with
-their tools. We'll teach you how to master the command-line, use a powerful
-text editor, use fancy features of version control systems, and much more!
+На заняттях вивчають просунуті теми з комп'ютерних наук — від операційних систем до машинного навчання. Проте є один критично важливий аспект, який рідко висвітлюють, залишаючи студентам на самостійне опрацювання: майстерне володіння інструментами. Ми навчимо вас опановувати командний рядок, використовувати потужні текстові редактори, розширені можливості систем контролю версій та багато іншого!
 
-Students spend hundreds of hours using these tools over the course of their
-education (and thousands over their career), so it makes sense to make the
-experience as fluid and frictionless as possible. Mastering these tools not
-only enables you to spend less time on figuring out how to bend your tools to
-your will, but it also lets you solve problems that would previously seem
-impossibly complex.
+Студенти витрачають сотні годин на ці інструменти під час навчання (і тисячі протягом кар'єри), тому є сенс зробити цей досвід максимально природним та комфортним. Майстерне володіння ними не лише дозволить витрачати менше часу на те, щоб підлаштувати інструментарій під свої потреби, а й дасть змогу розв'язувати задачі, які раніше здавалися б надзвичайно складними.
 
-These days, many aspects of software engineering are also in flux
-through the introduction of AI-enabled and AI-enhanced tools and
-workflows. When used appropriately and with awareness of their
-shortcomings, these can often provide significant benefits to
-CS practitioners and are thus worth developing working knowledge of.
-Since AI is a cross-functional enabling technology, there is not a
-standalone AI lecture; we've instead folded the use of the latest
-applicable AI tools and techniques into each lecture directly.
+Сьогодні багато аспектів програмної розробки також змінюються через впровадження ШІ-інструментів та ШІ-процесів. За умови належного використання та розуміння їхніх недосконалостей, вони можуть принести значну користь фахівцям у галузі комп'ютерних наук, а отже, варті того, щоб опанувати їх на практиці. Оскільки ШІ є наскрізною технологією, окремої лекції про нього немає; натомість ми інтегрували використання найсучасніших інструментів та методів ШІ безпосередньо у кожен урок.
 
-Read about the [motivation behind this class](/about/).
+Дізнайтеся більше про [мотивацію створення цього курсу](/about/).
 
 {% comment %}
 # Registration
@@ -68,19 +52,18 @@ from the [previous offering of the course](/2020/), which covers many of the
 same topics.
 {% endcomment %}
 
-You can view lecture videos on [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L).
+Переглянути відео лекцій можна на [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L).
 
-You can discuss the course in the [OSSU Discord](https://ossu.dev/#community) (use `#missing-semester-forum` like you would use Piazza, and `#missing-semester` to chat with the class/instructors).
+Обговорити курс можна в [OSSU Discord](https://ossu.dev/#community) (використовуйте канал `#missing-semester-forum` як офіційний форум курсу (аналог Piazza) та `#missing-semester` для спілкування з групою/викладачами).
 
-# About the class
+# Про курс
 
-**Staff**: This class is co-taught by [Anish](https://anish.io/), [Jon](https://thesquareplanet.com/), and [Jose](https://josejg.com/).<br>
-**Questions**: Email us at [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
+**Викладачі**: Цей курс спільно викладають [Anish](https://anish.io/), [Jon](https://thesquareplanet.com/) та [Jose](https://josejg.com/).<br>
+**Питання**: Пишіть нам на [missing-semester@mit.edu](mailto:missing-semester@mit.edu).
 
-# Beyond MIT
+# Поза межами MIT
 
-We've also shared this class beyond MIT in the hopes that others may
-benefit from these resources. You can find posts and discussion on
+Ми також поширюємо цей курс поза межами MIT, сподіваючись, що ці ресурси стануть корисними й іншим. Ви можете знайти публікації та обговорення на:
 
  - Hacker News ([2026](https://news.ycombinator.com/item?id=47124171), [2020](https://news.ycombinator.com/item?id=22226380), [2019](https://news.ycombinator.com/item?id=19078281))
  - Lobsters ([2026](https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education_2026), [2020](https://lobste.rs/s/ti1k98/missing_semester_your_cs_education_mit), [2019](https://lobste.rs/s/h6157x/mit_hacker_tools_lecture_series_on))
@@ -92,13 +75,14 @@ benefit from these resources. You can find posts and discussion on
  - LinkedIn ([2026](https://www.linkedin.com/posts/anishathalye_i-returned-to-mit-during-iap-january-term-activity-7430285026933522433-Ehr9))
  - YouTube ([2026](https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L), [2020](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J), [2019](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv))
 
-# Translations
+# Переклади
 
 {% comment %} keep these in alphabetical order {% endcomment %}
 
 - [Arabic](https://missing-semester-ar.github.io/)
 - [Bengali](https://missing-semester-bn.github.io/)
 - [Chinese (Simplified)](https://missing-semester-cn.github.io/)
+- [English](https://missing.csail.mit.edu/)
 - [German](https://missing-semester-de.github.io/)
 - [Italian](https://missing-semester-it.github.io/)
 - [Japanese](https://missing-semester-jp.github.io/)
@@ -113,25 +97,27 @@ benefit from these resources. You can find posts and discussion on
 - [Turkish](https://missing-semester-tr.github.io/)
 - [Vietnamese](https://missing-semester-vn.github.io/)
 
-Note: these are external links to community translations. We have not vetted
-them.
+Примітка: це зовнішні посилання на переклади від спільноти. Ми їх не перевіряли.
 
-Have you created a translation of the course notes from this class? Submit a
-[pull request](https://github.com/missing-semester/missing-semester/pulls) so
-we can add it to the list!
+Ви створили переклад конспектів цього курсу? Відправте
+[pull request](https://github.com/missing-semester/missing-semester/pulls) щоб ми могли додати його до списку!
 
-## Acknowledgments
+Бачите неточність? Запропонуйте правки до перекладу в [GitHub репозиторії української версії курсу](https://github.com/missing-semester-ua/missing-semester-ua.github.io/pulls). Дякуємо за внесок!
+
+
+
+## Подяки
 
 {% comment %}
 2026 acks; previous years' acks are on their respective pages
 {% endcomment %}
 
-We thank Elaine Mello and [MIT Open Learning](https://openlearning.mit.edu/) for making it possible for us to record lecture videos. We thank Luis Turino / [SIPB](https://sipb.mit.edu/) for supporting this class as part of [SIPB IAP 2026](https://sipb.mit.edu/iap/).
+Ми дякуємо Elaine Mello та [MIT Open Learning](https://openlearning.mit.edu/) за можливість записати відео лекцій. Ми також вдячні Luis Turino / [SIPB](https://sipb.mit.edu/) за підтримку цього курсу в межах [SIPB IAP 2026](https://sipb.mit.edu/iap/).
 
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester/missing-semester">Source code</a>.</p>
-<p>Licensed under CC BY-NC-SA.</p>
-<p>See <a href="/license/">here</a> for contribution &amp; translation guidelines.</p>
+<p><a href="https://github.com/missing-semester-ua/missing-semester-ua.github.io.git" target="_blank">Вихідний код україномовної версії</a>.</p>
+<p>Ліцензовано на умовах CC BY-NC-SA.</p>
+<p>Правила щодо внесення правок та перекладу можна знайти <a href="/license/">тут</a>.</p>
 </div>
